@@ -1,7 +1,7 @@
-<img align="right" height="150" z-index="1000000" src="https://avatars.githubusercontent.com/u/62922384?v=4"/>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/62922384?v=4"/>
 
 <div align="left">
-  <h2 align="left" z-index="0">👋 Hi! I'm turtledevv.</h2>
+  <h2 align="left">👋 Hi! I'm turtledevv.</h2>
   
   ![](https://img.shields.io/badge/html-FFA500?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   <div align="right">
