@@ -10,9 +10,8 @@
       I do touch grass, by the way.<br>
     </p>
     <p align="left">
-      - Visit my portfolio at https://turtldev.online<br>
       - Visit my personal website at https://turtledev.xyz<br>
-      - Need to contact me? My email is contact@turtldev.online!
+      - Need to contact me? My email is contact@turtledev.xyz!
     </p>    
   </div>
 </div>
